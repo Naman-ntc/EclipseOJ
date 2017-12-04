@@ -11,10 +11,15 @@ with the standard output, the system will then return the result.
 ## Major Softwares/Tools used
 
 • Django 1.11.5
+
 • HTML5, CSS3 (using Sass)
+
 • Javascript (including jQuery, AJAX)
+
 • Docker
+
 • BASH
+
 • MathJax, Bootstrap4 … etc.
 
 
@@ -33,7 +38,7 @@ The right panel shows the top 5 users
 ![All contests](images/allcontests.png)
 #### Specific Contest
 This is the place where you can get all the links to the problems of this contest if it is in the past or running currently
-![Specific Contest](images/speccontests.png)
+
 ### Problems
 #### All Problems
 Contains a list of all problems
